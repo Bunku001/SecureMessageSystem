@@ -1,5 +1,12 @@
 {
   "users": {},
   "messages": [],
-  "requests": []
+  "requests": [
+    {
+      "id": 1,
+      "selected_id": "UG1984",
+      "request_date": "2025-10-09 16:47:42",
+      "status": "pending"
+    }
+  ]
 }
