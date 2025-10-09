@@ -20,6 +20,15 @@
       "requires_password": true,
       "password": "12",
       "created_at": "2025-10-09 13:17"
+    },
+    {
+      "target_user": "julius",
+      "encrypted_message": "9785768 18769 9785768 00785 1037458 847364 9785768 28393 03657 03657 03657 03657",
+      "sender": "Admin",
+      "requires_password": true,
+      "password": "123",
+      "created_at": "2025-10-09 13:31",
+      "type": "admin_to_user"
     }
   ]
 }
