@@ -9,6 +9,11 @@
       "created_at": "2025-10-09 18:52:52",
       "special_number": "08728 09488 92748 02383 82783 93849 02383 93849",
       "approved_from_request": 2
+    },
+    "50GJ74": {
+      "created_at": "2025-10-09 19:08:26",
+      "special_number": "92748 92737 82783 37847 93849 92737 92748 93849",
+      "approved_from_request": 4
     }
   },
   "messages": [
@@ -58,7 +63,8 @@
       "id": 4,
       "selected_id": "50GJ74",
       "request_date": "2025-10-09 19:07:11",
-      "status": "pending"
+      "status": "approved",
+      "approval_date": "2025-10-09 19:08:26"
     }
   ]
 }
