@@ -1,68 +1,37 @@
 {
   "users": {
-    "julius": {
-      "created_at": "2025-10-09 13:16"
-    },
-    "jkm": {
-      "created_at": "2025-10-09 13:46",
-      "approved_from_request": 1,
-      "original_name": "juma bakari juma"
+    "57687": {
+      "57687": "57687 57687 57687"
     }
   },
   "messages": [
     {
-      "target_user": "juma",
-      "encrypted_message": "10088 09797 10476 10476 10767 11543 03104 10282 11349 10573 09409",
-      "sender": "Admin",
-      "requires_password": true,
-      "password": "1234",
-      "created_at": "2025-10-09 13:00"
+      "57687": "57687 57687"
     },
     {
-      "target_user": "julius",
-      "encrypted_message": "10088 09797 10476 10476 10767 11543",
-      "sender": "Admin",
-      "requires_password": true,
-      "password": "12",
-      "created_at": "2025-10-09 13:17"
+      "57687": "57687 57687"
     },
     {
-      "target_user": "julius",
-      "encrypted_message": "9785768 18769 9785768 00785 1037458 847364 9785768 28393 03657 03657 03657 03657",
-      "sender": "Admin",
-      "requires_password": true,
-      "password": "123",
-      "created_at": "2025-10-09 13:31",
-      "type": "admin_to_user"
+      "57687": "57687"
     },
     {
-      "target_user": "admin",
-      "encrypted_message": "1037458 28393 18769 18769 18769 18769 18769 18769 18769",
-      "sender": "julius",
-      "requires_password": false,
-      "password": "",
-      "created_at": "2025-10-09 13:33",
-      "type": "user_to_admin"
+      "57687": "57687"
     }
   ],
   "requests": [
     {
-      "id": 1,
-      "full_name": "juma bakari juma",
-      "suggested_username": "jkm",
-      "reason": "for security reasons",
-      "request_date": "2025-10-09 13:44",
-      "status": "approved",
-      "approved_username": "jkm",
-      "approval_date": "2025-10-09 13:46"
+      "57687": "57687 57687"
     },
     {
-      "id": 2,
-      "full_name": "juma",
-      "suggested_username": "julius",
-      "reason": "secu",
-      "request_date": "2025-10-09 13:46",
-      "status": "pending"
+      "57687": "57687"
+    },
+    {
+      "13057 89657": "82783",
+      "39756 10387 07565 07565 57687 00000 18769 97857 03657": "26477 10387 97857 18769 12040 18769 12040 18769",
+      "93756 10387 05475 05475 03657 93756 10374 03657 89657 57687 10387 93756 03657 01734 00000 18769 97857 03657": "12040 12040 12040 12040 12040",
+      "01734 03657 18769 93756 10374 00000": "12040 03657 10374 10374 10374",
+      "01734 03657 74575 10387 03657 93756 10374 57687 89657 18769 10374 03657": "09488 92774 09488 92748 46576 02383 92774 46576 92774 93849 84736 02383 16378 57687 92774 82783",
+      "93756 10374 18769 10374 10387 93756": "10375 03657 00000 89657 13057 00000 05475"
     }
   ]
 }
