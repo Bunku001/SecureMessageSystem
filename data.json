@@ -29,6 +29,15 @@
       "password": "123",
       "created_at": "2025-10-09 13:31",
       "type": "admin_to_user"
+    },
+    {
+      "target_user": "admin",
+      "encrypted_message": "1037458 28393 18769 18769 18769 18769 18769 18769 18769",
+      "sender": "julius",
+      "requires_password": false,
+      "password": "",
+      "created_at": "2025-10-09 13:33",
+      "type": "user_to_admin"
     }
   ]
 }
