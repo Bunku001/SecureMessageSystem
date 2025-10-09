@@ -1,0 +1,31 @@
+{
+  "users": {
+    "juma": {
+      "created_at": "2025-10-09 12:59"
+    },
+    "julius": {
+      "created_at": "2025-10-09 13:16"
+    },
+    "bakari": {
+      "created_at": "2025-10-09 13:18"
+    }
+  },
+  "messages": [
+    {
+      "target_user": "juma",
+      "encrypted_message": "10088 09797 10476 10476 10767 11543 03104 10282 11349 10573 09409",
+      "sender": "Admin",
+      "requires_password": true,
+      "password": "1234",
+      "created_at": "2025-10-09 13:00"
+    },
+    {
+      "target_user": "julius",
+      "encrypted_message": "10088 09797 10476 10476 10767 11543",
+      "sender": "Admin",
+      "requires_password": true,
+      "password": "12",
+      "created_at": "2025-10-09 13:17"
+    }
+  ]
+}
